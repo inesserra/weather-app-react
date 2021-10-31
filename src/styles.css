@@ -1,0 +1,11 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 600px;
+  max-height: 500px;
+  display: block;
+  margin: 30px auto;
+  padding: 20px;
+  background: white;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+}

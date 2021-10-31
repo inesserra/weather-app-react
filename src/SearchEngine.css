@@ -1,0 +1,11 @@
+.SearchEngine .current-location {
+  display: inline;
+  position: relative;
+  margin-left: -10px;
+}
+.SearchEngine .weather-app {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  margin-left: -15px;
+}
